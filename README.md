@@ -10,7 +10,7 @@ This repository is the official implementation of [ViDSOD-100](https://link.spri
 
 
 ## Data
-You can download our ViDSOD-100 dataset from [here]([https://github.com/shadow2496/VITON-HD](https://drive.google.com/file/d/1UDPHdgygVJxuAigJuBy8aTPRt8A6Our9/view?usp=sharing)).<br>
+You can download our ViDSOD-100 dataset from [here](https://drive.google.com/file/d/1UDPHdgygVJxuAigJuBy8aTPRt8A6Our9/view?usp=sharing).<br>
 For both training and inference, the following dataset structure is required:
 
 ```
