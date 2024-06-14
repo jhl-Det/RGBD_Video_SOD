@@ -2,6 +2,7 @@
 
 
 ## TODO List
-- [] ~~Inference code~~
-- [] ~~Release model weights~~
-- [] ~~Training code~~
+- [] release dataset
+- [] training code
+- [] inference code
+- [] evaluation code
