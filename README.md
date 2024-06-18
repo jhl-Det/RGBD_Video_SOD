@@ -5,8 +5,8 @@ This repository is the official implementation of [ViDSOD-100](https://link.spri
 
 ## TODO List
 - [x]  ~~release dataset~~
-- [] release code
-- [] release weights
+- [x] ~~release code~~
+- [x] ~~release weights~~
 
 
 ## Data
@@ -20,6 +20,28 @@ vidsod_100
 |-- test
 |-- test_flow
 ```
+
+## training
+``` shell
+sh train.sh
+```
+
+
+## inference
+``` shell
+sh infer.sh
+```
+
+## evaluation
+``` shell
+sh cal_scores.sh
+```
+
+## Weights
+We released our [checkpoint](https://drive.google.com/file/d/1WNvwL6_ZxAX6oaDUmAjpE17H_xOV6tET/view?usp=sharing) on ViDSOD-100 <br>
+
+## Saliency Maps
+
 
 ## Citation
 If you find our work useful for your research, please cite us:
