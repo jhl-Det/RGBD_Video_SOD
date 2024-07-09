@@ -10,6 +10,8 @@ This repository is the official implementation of [ViDSOD-100](https://link.spri
 
 
 ## Data
+
+![ViDSOD-100](./images/ViDSOD100.png)
 You can download our ViDSOD-100 dataset from [here](https://drive.google.com/file/d/1UDPHdgygVJxuAigJuBy8aTPRt8A6Our9/view?usp=sharing).<br>
 For both training and inference, the following dataset structure is required:
 
