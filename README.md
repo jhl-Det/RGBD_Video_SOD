@@ -1,15 +1,7 @@
-# RGBD_Video_SOD
 # [IJCV-2024] ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection
 This repository is the official implementation of [ViDSOD-100](https://link.springer.com/article/10.1007/s11263-024-02051-5#Abs1)
 
-
-## TODO List
-- [x]  ~~release dataset~~
-- [x] ~~release code~~
-- [x] ~~release weights~~
-
-
-## Data
+## Dataset
 
 ![ViDSOD-100](./images/ViDSOD100.png)
 You can download our ViDSOD-100 dataset from [here](https://drive.google.com/file/d/1UDPHdgygVJxuAigJuBy8aTPRt8A6Our9/view?usp=sharing).<br>
